@@ -30,7 +30,7 @@ val dependencies = new {
     "com.softwaremill.sttp.tapir"   %% "tapir-zio-http-server"             % Versions.tapir,
     "com.softwaremill.sttp.tapir"   %% "tapir-swagger-ui-bundle"           % Versions.tapir,
 
-    "ch.qos.logback"                 % "logback-classic"                   % "1.4.4",
+    "ch.qos.logback"                 % "logback-classic"                   % "1.4.13",
     "dev.zio"                       %% "zio-test"                          % Versions.zio,
 
     "dev.zio"                       %% "zio-config"                        % Versions.zioConfig,
